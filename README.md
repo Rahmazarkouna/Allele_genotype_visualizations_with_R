@@ -1,4 +1,4 @@
-# Allele & Genotype Distribution Analysis in R
+# Self-incompatibility as a key challenge for apricot sustainability under climatic changes: Insights on allelic diversity from a core collection and development of a self-compatibility related marker
 
 This repository contains an R visualization pipeline designed for population genetics and molecular data analysis. It provides scripts to generate publication-grade **jitter plots**, **donut charts**, and **frequency heatmaps** grouped by Geographic and Genetic origins.
 
