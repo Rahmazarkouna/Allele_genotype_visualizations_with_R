@@ -1,4 +1,4 @@
-# Allele & Genotype Distribution Analysis in R
+# Allele & Genotype Distribution Analysis in 
 
 This repository contains an R visualization pipeline designed for population genetics and molecular data analysis. It provides scripts to generate publication-grade **jitter plots**, **donut charts**, and **frequency heatmaps** grouped by Geographic and Genetic origins.
 
